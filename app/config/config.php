@@ -1,5 +1,5 @@
 <?php
-define('BASEURL', 'http://localhost/belajar/PHP%20MVC/WPU/public');
+define('BASEURL', 'http://localhost/aplikasi/PHP%20MVC/WPU/public');
 
 // Database
 define('DB_HOST', 'localhost');

@@ -45,7 +45,7 @@
 include "modal/detail.html";
 
 // form modal
-include "modal/form.html";
+include "modal/form.php";
 
 // alert modal
 include "modal/alert.html";
